@@ -1,0 +1,9 @@
+### 1. 한국 선수 player_name 구글링 → 엑셀 정리 → csv로 저장하기
+
+컬럼명: 'palyer_name'  |  파일명: esports_players_summary.csv
+
+### 2. PLAYERS에서 한국 선수 player_id 구하고 → 컬럼 추가 → csv로 저장하기
+
+- esports_players_summary.csv 불러오기
+- PLAYERS url, 반복문 활용 → 전체 선수의 player_Id 구하기
+- esports_players_summary.csv에 'player_id' 칼럼 추가하고 저장 ⇒ 파일명: esports_players_summary.csv
